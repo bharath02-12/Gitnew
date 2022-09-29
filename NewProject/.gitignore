@@ -1,0 +1,8 @@
+new.text
+#task1
+*.a
+*.b
+bsf.a
+
+#/task1
+todo/
